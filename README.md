@@ -1,4 +1,5 @@
 Hi, I'm Maimana
+
 Aspiring Data Analyst | Excel, SQL, and Healthcare Data
 
 I am a high-achieving Pre-Medical student transitioning into Data Analytics. I specialize in cleaning messy datasets, extracting insights using SQL, and visualizing data to tell a story. 
