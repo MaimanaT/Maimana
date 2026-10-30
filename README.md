@@ -11,7 +11,12 @@ My Skills
 *   **Other:** Healthcare Data, Medical Terminology
 
 My Projects
-*(Scroll down to see my pinned repositories below!)*
+
+*   **[Healthcare Data Cleaning & Visualization (Excel)](https://github.com/MaimanaT/Healthcare-Data-Cleaning-Excel)**
+    *   Cleaned a 1,000-row clinic dataset, standardized 5 different date formats, and built a Pivot Table/Chart to analyze revenue by department.
+    *   
+*   **[Hospital Lab Data Analysis (SQL)](https://github.com/MaimanaT/Hospital-Lab-Data-Analysis-SQL)**
+    *   Analyzed 1,500 lab results across 3 hospitals using SQL. Cleaned header errors, calculated missing data, and filtered mixed units to find accurate clinical averages.
 
 Connect with me
 **Email:** maimanawork@gmail.com
