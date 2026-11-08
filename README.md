@@ -25,6 +25,7 @@ My Projects
 "Interactive Dashboard (Looker Studio):"
 
 Built a professional interactive dashboard in Google Looker Studio for a clinic dataset of 1,000 appointments. The dashboard includes KPI scorecards (Total Appointments, Total Revenue, Unique Patients), a revenue-by-department bar chart, a patient demographic pie chart, and a follow-up requirements table. Added interactive Date Range and Department filters for dynamic data exploration.
+
 <img width="1242" height="1032" alt="WhatsApp Image 2026-11-08 at 8 39 16 PM" src="https://github.com/user-attachments/assets/8cd73a37-79cd-44bd-99f7-678f4801590d" />
 
 Connect with me
