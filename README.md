@@ -28,5 +28,12 @@ Built a professional interactive dashboard in Google Looker Studio for a clinic 
 
 <img width="1242" height="1032" alt="WhatsApp Image 2026-11-08 at 8 39 16 PM" src="https://github.com/user-attachments/assets/8cd73a37-79cd-44bd-99f7-678f4801590d" />
 
+Hospital-Lab-Data-Analysis
+
+Built an interactive Google Looker Studio dashboard to visualize hospital lab data. The dashboard includes KPI scorecards (Total Tests, Missing Results), a bar chart comparing test volume across hospitals, and a pie chart showing the distribution of test types. Added interactive filters for dynamic data exploration.
+
+<img width="1242" height="1184" alt="WhatsApp Image 2026-11-08 at 9 57 14 PM" src="https://github.com/user-attachments/assets/01308c17-c6a1-4cbc-98f0-95f2c57f2750" />
+
+
 Connect with me
 **Email:** maimanawork@gmail.com
