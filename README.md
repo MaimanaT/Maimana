@@ -34,6 +34,13 @@ Built an interactive Google Looker Studio dashboard to visualize hospital lab da
 
 <img width="1242" height="1184" alt="WhatsApp Image 2026-11-08 at 9 57 14 PM" src="https://github.com/user-attachments/assets/01308c17-c6a1-4cbc-98f0-95f2c57f2750" />
 
+**Superstore-Sales-Dashboard**
+
+Cleaned and analyzed a 10,000-row e-commerce dataset. Built a comprehensive Looker Studio dashboard featuring KPI scorecards, a time-series line chart, a geographic map, and a segment breakdown using custom color palettes.
+
+<img width="1242" height="1240" alt="WhatsApp Image 2026-11-09 at 7 49 17 PM" src="https://github.com/user-attachments/assets/e52a6161-b669-4070-9c75-f38df381c5f6" />
+
+
 
 Connect with me
 **Email:** maimanawork@gmail.com
